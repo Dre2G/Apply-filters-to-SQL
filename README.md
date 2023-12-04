@@ -24,7 +24,7 @@ The following code demonstrates how I created a SQL query to filter for a failed
 that occurrred after business hours.
   
 <br align="center"/>
-<img src=".png" height="80%" width="80%" alt="Control Categories"/>
+<img src="https://imgur.com/OzDVrcM.png" height="80%" width="80%" alt="Control Categories"/>
 <br />
 
 The first part of the screenshot is my query and the second part is a portion of the output.
@@ -41,7 +41,7 @@ or on the day before needs to be investigated.
 The following code demonstrates how I created a SQL query to filters for login attempts that 
 occurred on specific dates.
 
-<img src=".png" height="80%" width="80%" alt="summery Audit Scope and Goals"/>
+<img src="https://imgur.com/kMMW0o6.png" height="80%" width="80%" alt="summery Audit Scope and Goals"/>
 <br />
 
 The first part of the screenshot is my query, and the second part is a portion of the output.
@@ -63,7 +63,7 @@ The following code demonstrates how I created a SQL query to filter for login at
 occurred outside of Mexico
 
 <br/>
-<img src=".png" height="80%" width="80%" alt="Control Categories"/>
+<img src="https://imgur.com/AQkZsi4.png" height="80%" width="80%" alt="Control Categories"/>
 <br />
 
 The first part of the screenshot is my query, and the second part is a portion of the output.
@@ -85,7 +85,7 @@ The following code demonstrates how I created a SQL query to filter for employee
 from employees in the Marketing department in the East building.
 
 <br/>
-<img src=".png" height="80%" width="80%" alt="Compliance Checklist choices"/>
+<img src="https://imgur.com/JD4kEya.png" height="80%" width="80%" alt="Compliance Checklist choices"/>
 <br />
 
 The first part of the screenshot is my query, and the second part is a portion of the output.
@@ -109,7 +109,7 @@ The following code demonstrates how I created a SQL query to filter for employee
 from employees in the Finance or Sales departments.
 
 <br/>
-<img src=".png" height="80%" width="80%" alt="Risk Assessment"/>
+<img src="https://imgur.com/fJISnIs.png" height="80%" width="80%" alt="Risk Assessment"/>
 <br />
 
 The first part of the screenshot is my query, and the second part is a portion of the output.
@@ -133,7 +133,7 @@ The following demonstrates how I created a SQL query to filter for employee mach
 employees not in the Information Technology department.
 
 <br/>
-<img src=".png" height="80%" width="80%" alt="Risk Assessment"/>
+<img src="https://imgur.com/n673u8R.png" height="80%" width="80%" alt="Risk Assessment"/>
 <br />
 
 The first part of the screenshot is my query, and the second part is a portion of the output. The
