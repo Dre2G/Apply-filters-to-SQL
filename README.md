@@ -11,9 +11,9 @@ security-related tasks.
 <h2>Scenerio</h2>
 
 In this scenerio, I am investigating a recent security incident. 
-I will need to gather information about login attempts for certain dates and times. I will first have to retrieve events made after a certain date.
-Second, I will narrow the focus of the search to filter logins in a date range. Third, I will investigate logins that were made at certain times. 
-Finally, I will filter login attempts based on their event ID's.
+I will need to gather information about login attempts for certain dates and times. I will <b>first</b> have to retrieve events made after a certain date.
+<b>Second</b>, I will narrow the focus of the search to filter logins in a date range. <b>Third</b>, I will investigate logins that were made at certain times. 
+<b>Finally</b>., I will filter login attempts based on their event ID's.
 
 <p >
 <h3> Retrieve after hours failed login attempts</h3>
